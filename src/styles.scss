@@ -1,0 +1,11 @@
+/* src/styles.css */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+// Set the full page height so we can stick the footer to the bottom
+html,
+body {
+    height: 100%;
+}
+/* Importing Bootstrap SCSS file. */
+@import "./node_modules/bootstrap/scss/bootstrap";
